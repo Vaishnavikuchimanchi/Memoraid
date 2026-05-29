@@ -9,14 +9,22 @@ Python, PyTorch, CNN, ResNet-18, Streamlit, OpenCV
 
 Steps to Run the Project
 
+
 1. Create Virtual Environment
+   
    python -m venv venv
+
    
-3. Activate the Environment
+2. Activate the Environment
+   
    venv\Scripts\activate
+
    
-5. Install Required Dependencies
+3. Install Required Dependencies
+   
    pip install -r requirements.txt
+
    
-7. Run the Application
+4. Run the Application
+   
    streamlit run app.py
